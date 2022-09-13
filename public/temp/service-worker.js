@@ -1,0 +1,1 @@
+No Content: https://m.bkkbisa.com/service-worker.js
